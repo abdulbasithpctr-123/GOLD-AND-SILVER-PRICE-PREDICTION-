@@ -1,2 +1,2 @@
 # GOLD-AND-SILVER-PRICE-PREDICTION-
-This project report summarizes the methodology and findings of your Time Series Forecasting project focused on predicting the prices of Gold and Silver with a strategic 2-year (730-day) outlook.
+This project is a sophisticated financial time series analysis pipeline designed to forecast the daily closing prices of Gold and Silver with a specific focus on a 2-year (730-day) outlook.
